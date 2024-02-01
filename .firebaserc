@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "location-app-106a1": {
+      "hosting": {
+        "localisation": [
+          "location-app-106a1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "location-app-106a1"
+  }
+}

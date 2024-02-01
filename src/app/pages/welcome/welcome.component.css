@@ -1,0 +1,48 @@
+.parent-container {
+  background-image: url('/assets/images/Google-Maps-searchin_result.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center; /* Center children vertically */
+  height: 100%;
+  background-color: Rgba(255,255,255,0.8);
+
+
+
+}
+
+.explain .title{
+  font-family: Lato-Bold, serif;
+  color: mediumvioletred;
+  font-weight: bold;
+
+
+}
+.explain {
+  font-size: 1.3vh;
+  font-family: Lato-Italic, serif;
+  text-align: center;
+}
+.sub-title {
+  font-family: Lato-Bold, serif;
+  font-size: 1.7vh;
+}
+
+.text-header {
+  font-family: Lato-Bold, serif;
+  font-size: 2vh;
+
+}
+.marginize {
+  margin-top: 2vh;
+}
